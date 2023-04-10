@@ -16,7 +16,7 @@ The principles I followed in generated face are:
 
 Here is the generated face data and corresponding descriptions:
 
-**A more detailed instructions are avaliable at [HERE]().**
+**A more detailed instructions are avaliable at [HERE](https://github.com/Robin-WZQ/AGFD-30K/blob/main/Instructions.md).**
 
 |  Attribute   |  Specific Features  | Male | Female |            Url             |                        Special Prompt                        |
 | :----------: | :-----------------: | :--: | :----: | :------------------------: | :----------------------------------------------------------: |
