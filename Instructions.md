@@ -20,13 +20,13 @@ A reference containing portraits and Keywords that you can use with Stable Diffu
 
   | 25 y.o., 35 y.o., man | 25 y.o., 35 y.o., woman |
   | :-------------------: | :---------------------: |
-  |                       |                         |
+  |            ![young_adult_man_small](https://user-images.githubusercontent.com/60317828/230922592-21961c2c-faa1-42ae-906c-4fa06090dd55.png)|                 ![Uploading young_adult_woman_small.png…]() |
 
   - Old adult
 
   | 45 y.o., 55 y.o., man | 45 y.o., 55 y.o., woman |
   | :-------------------: | :---------------------: |
-  |                       |                         |
+  |              ![old_adult_man_small](https://user-images.githubusercontent.com/60317828/230922649-00d3c796-bc83-42b1-8fc2-e19b8e77b56e.png)         |            ![old_adult_woman_small](https://user-images.githubusercontent.com/60317828/230922504-95a1249d-e5f2-4a9c-bcd5-6762beed53ed.png) |
 
   - Old
 
