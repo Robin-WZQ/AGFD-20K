@@ -8,13 +8,13 @@ A reference containing portraits and Keywords that you can use with Stable Diffu
 
   | 1 y.o., 3 y.o., boy | 1 y.o., 3 y.o., girl |
   | :-----------------: | :------------------: |
-  |          |          |
+  |       ![young_child_small](https://user-images.githubusercontent.com/60317828/230921787-eae427f4-2655-4fc8-9195-420186f6fe04.png)|        ![young_child_girl_small](https://user-images.githubusercontent.com/60317828/230921807-59d9291f-ea97-415f-a3a7-6648bab9f638.png)|
 
   - Teenager
 
   | 8 y.o., 15 y.o., boy | 8 y.o., 15 y.o., girl |
   | :------------------: | :-------------------: |
-  |                      |                       |
+  |                ![teenager_man_small](https://user-images.githubusercontent.com/60317828/230921966-818d3088-4428-4e35-816d-5e0734dce315.png) |         ![teenager_woman_small](https://user-images.githubusercontent.com/60317828/230921910-37680c5c-a2be-4cd1-b256-661e787f270e.png)   |
 
   - Young adult 
 
