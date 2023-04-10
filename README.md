@@ -10,11 +10,13 @@ Thanks to the **Diffusion Model,** we can generate the data we need from prompt.
 
 The principles I followed in generated face are:
 
-- Realistic (use Realistic_Vision_V2.0:1 from civitai.com)
+- Realistic (use [Realistic_Vision_V2.0:1]() from civitai.com)
 - High-resolution (the resolution of all images are 512*512)
 - Vary & Balanced (support vary faces and keep good data distribution)
 
 Here is the generated face data and corresponding descriptions:
+
+**A more detailed instructions are avaliable at [HERE]().**
 
 |  Attribute   |  Specific Features  | Male | Female |            Url             |                        Special Prompt                        |
 | :----------: | :-----------------: | :--: | :----: | :------------------------: | :----------------------------------------------------------: |
@@ -53,7 +55,6 @@ Here is the generated face data and corresponding descriptions:
 |     ALL      |         all         | 20K  |  20K   |                            |                                                              |
 
 
-A more detailed instructions are avaliable at HERE.
 
 ### Thanks
 
