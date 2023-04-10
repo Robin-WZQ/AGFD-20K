@@ -1,6 +1,8 @@
 # A Generated Face Dataset: AGFD-30K
 
-<img src="G:\pic1_new.png" alt="pic1_new" style="zoom:80%;" />
+<div align=center>
+    <img src=https://user-images.githubusercontent.com/60317828/230751645-047e009c-23bd-4af3-a29e-5a8470adb99a.png width="700"/>
+</div>
 
 Many times, we may find that our trained model does not work well on some special samples. But collecting these data from search engines is laborious and requires a long time of cleaning (due to the low quality of the data, like: unrelated, low-resolution, unbalanced, etc.)
 
