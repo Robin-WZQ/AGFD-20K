@@ -8,9 +8,7 @@ A reference containing portraits and Keywords that you can use with Stable Diffu
 
   | 1 y.o., 3 y.o., boy | 1 y.o., 3 y.o., girl |
   | :-----------------: | :------------------: |
-  |          ![young_child](https://user-images.githubusercontent.com/60317828/230920212-c6fc3043-306f-4afa-965b-acb09568e130.png)
-           |          ![young_child_girl](https://user-images.githubusercontent.com/60317828/230920277-ea6789ed-59e8-484e-8492-fea9f72f9f99.png)
-            |
+  |          |          |
 
   - Teenager
 
@@ -48,7 +46,7 @@ A reference containing portraits and Keywords that you can use with Stable Diffu
 
   | Angry, pissed-off face, yelling, man | Angry, pissed-off face, yelling, woman |
   | :----------------------------------: | :------------------------------------: |
-  |                                      |                                        |
+  |            ![angry_man png_small](https://user-images.githubusercontent.com/60317828/230921290-1a560151-1ae1-4344-9b83-88a31d202d6c.png)                          |                                        |
 
 - Occlusion
 
