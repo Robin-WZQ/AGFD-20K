@@ -20,7 +20,7 @@ A reference containing portraits and Keywords that you can use with Stable Diffu
 
   | 25 y.o., 35 y.o., man | 25 y.o., 35 y.o., woman |
   | :-------------------: | :---------------------: |
-  |            ![young_adult_man_small](https://user-images.githubusercontent.com/60317828/230922592-21961c2c-faa1-42ae-906c-4fa06090dd55.png)|                |
+  |            ![young_adult_man_small](https://user-images.githubusercontent.com/60317828/230922592-21961c2c-faa1-42ae-906c-4fa06090dd55.png)|      ![young_adult_woman_small](https://user-images.githubusercontent.com/60317828/230925134-f457837e-77a5-44bf-b0b7-a6a0612680a5.png)          |
 
   - Old adult
 
@@ -32,7 +32,7 @@ A reference containing portraits and Keywords that you can use with Stable Diffu
 
   | 60,80,100 y.o., man, grandpa | 60,80,100 y.o., woman,  grandma |
   | :--------------------------: | :-----------------------------: |
-  |                              |                                 |
+  |               ![Old_man_small](https://user-images.githubusercontent.com/60317828/230925226-7c507214-f8d3-4fb7-8dac-a12cd32082a8.png)          |                              ![old_adult_woman_small](https://user-images.githubusercontent.com/60317828/230925253-0bf78264-24ae-4e9b-aec6-325b2c800e7b.png)   |
 
 - Emotion
 
@@ -40,7 +40,7 @@ A reference containing portraits and Keywords that you can use with Stable Diffu
 
   | smiling, laughing, man | smiling, laughing, woman |
   | :--------------------: | :----------------------: |
-  |                        |                          |
+  |            ![smile_man_small](https://user-images.githubusercontent.com/60317828/230925316-a333694d-a954-4af7-bc4b-8c82235658e2.png)            |               ![smile_woman_small](https://user-images.githubusercontent.com/60317828/230925301-196ca6ff-ab27-49f2-bf5b-2fc6d17dc875.png)           |
 
   - Angry
 
