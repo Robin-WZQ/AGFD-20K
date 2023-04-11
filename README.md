@@ -52,7 +52,7 @@ Here is the generated face data and corresponding descriptions:
 |     ALL      |         all         | 30K  |  30K   |                                                              |
 
 
-### Usage
+## Usage
 
 > **A more detailed instructions are available at [HERE](https://github.com/Robin-WZQ/AGFD-30K/blob/main/Instructions.md).**
 
@@ -74,16 +74,16 @@ CFG Scale 7
 
 Variation strength 1
 
-### Acknowledgement
+## Acknowledgement
 
 Thanks the creator of the model for his brilliant work and also thanks his reference models. 
 
-### Future Work
+## Future Work
 
 - I will use this fake faces to launch a program of facial landmark detection. In my plan, the program supports 270 points and keep a good capacity under complex scene (like large pose, occlusion, extreme expression…). Also, it supports both large model and tiny model (pth & onnx), for mobile using.
 - keep enlarge the dataset.
 
-### Citation
+## Citation
 
 ```
 @repo{2023agfd30k,
