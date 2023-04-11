@@ -86,19 +86,20 @@ A reference containing portraits and Keywords that you can use with Stable Diffu
 
   | under water, man | under water, woman |
   | :--------------: | :----------------: |
-  |                  |                    |
+  |         ![under_water_man_small](https://user-images.githubusercontent.com/60317828/231047856-2ec1c35e-e748-4e7b-a0cb-9dcedce40d01.png)         |         ![under_water_woman_small](https://user-images.githubusercontent.com/60317828/231047867-1f2a1644-5f2c-4509-85e6-510e829d0967.png)           |
+
 
   - Strong light
 
   | (sun behind:1.2), strong sun shine, man | (sun behind:1.2), strong sun shine, woman |
   | :-------------------------------------: | :---------------------------------------: |
-  |                                         |                                           |
+  |                          ![sun_behind_man_small](https://user-images.githubusercontent.com/60317828/231047908-0114d0c5-a992-4e1d-a943-bb93e30bd6b3.png)               |                  ![sun_behind_woman_small](https://user-images.githubusercontent.com/60317828/231047920-2d904852-77ae-4ec8-90ca-b1e04c8a98bf.png)                         |
 
   - Dark
 
   | in the night, dark light, (very dark scene:1.2), man | in the night, dark light, (very dark scene:1.2), woman |
   | :--------------------------------------------------: | :----------------------------------------------------: |
-  |                                                      |                                                        |
+  |                         ![dark_man_small](https://user-images.githubusercontent.com/60317828/231047941-7a2f19ac-2cb7-4efa-b8b7-5aa735947867.png)                             |                                ![dark_woman_small](https://user-images.githubusercontent.com/60317828/231047949-b6246475-703b-43bf-b040-f2e3828b2338.png)                        |
 
 - Large pose
 
