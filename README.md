@@ -4,9 +4,14 @@
     <img src=https://github.com/Robin-WZQ/AGFD-30/blob/main/logo.png width="700"/>
 </div>
 
-Many times, we may find that our trained model does not work well on some special samples. But collecting these data from search engines is laborious and requires a long time of cleaning (due to the low quality of the data, like: unrelated, low-resolution, unbalanced, etc.)
+Can we use generated human face for training a model? If the generated faces is realistic enough, how can we use it to generate faces we want? What the reflections from prompt to vary human faces are?
 
-Thanks to the **Diffusion Model,** we can generate the data we need from prompt. I have generated the following **face portraits** for someone in need. Although the amount of data is not large, it is enough for fine-tuning. (At least it can be used for **testing** the robust capacity of the model 🤣🤣🤣 )
+Besides, many times we need to construct a good test dataset to test the robust capacity of the trained model. But selecting pictures 精挑细选的 from searching engines is laborious and also facing the problem of cleaning (due to the low quality of the data like: unrelated, low-resolution, unbalanced, etc.). How the diffusion model can help us solve this problem?
+
+In the past 3 years, we have seen the 爆发 development of the **Diffusion Model**, it now can generate brilliant pictures according to user's prompt. In this program, I test the diffusion model in the capacity of generating realistic human faces. All in all, the propose of this program are the following two points:
+
+1. Construct a not bad faces dataset for testing;
+2. Use these data to do something interesting. I don't know if it is helpful for others, but it is useful for me 🤣🤣🤣 
 
 The principles I followed in generated face are:
 
