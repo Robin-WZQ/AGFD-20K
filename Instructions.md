@@ -107,19 +107,13 @@ A reference containing portraits and Keywords that you can use with Stable Diffu
 
   | side view, man | side view, woman |
   | :------------: | :--------------: |
-  |                |                  |
+  |       ![sideview_man_small](https://user-images.githubusercontent.com/60317828/231048001-a00fc301-658a-4eee-aeb8-95b4974beb81.png)         |        ![sideview_woman_small](https://user-images.githubusercontent.com/60317828/231047986-f455ea7e-4947-4034-a939-123705407819.png)          |
 
   - Up
 
   | (looking up:1.3), man | (looking up:1.3), woman |
   | :-------------------: | :---------------------: |
-  |                       |                         |
-
-  - Down
-
-  | (looking down:1.3), man | (looking down:1.3), woman |
-  | :---------------------: | :-----------------------: |
-  |                         |                           |
+  |               ![up_man_small](https://user-images.githubusercontent.com/60317828/231048047-b0b15f91-c66a-4cb8-8fa6-564e45249186.png)        |                 ![up_woman_small](https://user-images.githubusercontent.com/60317828/231048033-f25194e4-0dc0-49c6-a371-d34048c377db.png)        |
 
 - Hair
 
