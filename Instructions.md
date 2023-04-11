@@ -66,19 +66,19 @@ A reference containing portraits and Keywords that you can use with Stable Diffu
 
   | highly make up, eyeshadow,heavy black eyeliner, joker, Halloween makeup, man | highly make up, eyeshadow,heavy black eyeliner, joker, Halloween makeup, woman |
   | :----------------------------------------------------------: | :----------------------------------------------------------: |
-  |                                                              |                                                              |
+  |                                       ![makeup_man_small](https://user-images.githubusercontent.com/60317828/231047659-95262578-e0f1-417a-98cf-bb1d7bc988b0.png)                       |                                  ![makeup_woman_small](https://user-images.githubusercontent.com/60317828/231047639-04f0e031-dbb9-469e-ad79-a52f3c84ab48.png)                            |
 
   - Only hands
 
   | put Hand in front of face, put Hand in front of hair, man | put Hand in front of face, put Hand in front of hair, woman |
   | :-------------------------------------------------------: | :---------------------------------------------------------: |
-  |                                                           |                                                             |
+  |                                      ![hand_man_small](https://user-images.githubusercontent.com/60317828/231047682-3593e531-043a-4a41-88e7-c7bbce34fd82.png)                     |                                            ![hand_Woman_small](https://user-images.githubusercontent.com/60317828/231047697-6113d99c-462b-47ca-bbec-fa353cb01259.png)                 |
 
   - Complex
 
   | glasses，(masked:1.2), Halloween makeup，put Hand in front of face, put Hand in front of hair, man | glasses，(masked:1.2), Halloween makeup，put Hand in front of face, put Hand in front of hair, woman |
   | :----------------------------------------------------------: | :----------------------------------------------------------: |
-  |                                                              |                                                              |
+  |                        ![complex_man_small](https://user-images.githubusercontent.com/60317828/231047722-b0089d11-b441-4ec0-9df0-58b12abaad7d.png)                                      |                                            ![complex_woman_small](https://user-images.githubusercontent.com/60317828/231047732-c593a4a8-5ed1-4bd9-9a0a-b57350948607.png)                  |
 
 - Illumination
 
