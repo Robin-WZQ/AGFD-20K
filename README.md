@@ -18,41 +18,41 @@ Here is the generated face data and corresponding descriptions:
 
 **A more detailed instructions are avaliable at [HERE](https://github.com/Robin-WZQ/AGFD-30K/blob/main/Instructions.md).**
 
-|  Attribute   |  Specific Features  | Male | Female |            Url             |                        Special Prompt                        |
-| :----------: | :-----------------: | :--: | :----: | :------------------------: | :----------------------------------------------------------: |
-|     Age      |     child (0-5)     | 300  |  300   | [Google drive\|Baidu disk] |                        1 y.o., 3 y.o.                        |
-|              |   teenager (5-18)   | 600  |  600   |                            |                       8 y.o., 15 y.o.                        |
-|              | young adult (18-40) | 300  |  300   |                            |                       25 y.o., 35 y.o.                       |
-|              |  old adult (40-60)  | 300  |  300   |                            |                       45 y.o., 55 y.o.                       |
-|              |      old (60+)      | 600  |  600   |                            |               60,80,100 y.o., Grandma，Grandpa               |
-|   Emotion    |        smile        | 600  |  600   |                            |                      smiling, laughing                       |
-|              |        angry        | 600  |  600   |                            |               Angry, pissed-off face, yelling                |
-|  Occlusion   |    only glasses     | 600  |  600   |                            |     glasses,sunglasses,swimming goggles,skiing goggles,      |
-|              |      only mask      | 300  |  300   |                            |                  (masked:1.2), antigas mask                  |
-|              |    only make up     | 300  |  300   |                            | highly make up, eyeshadow,heavy black eyeliner, joker, [Halloween makeup], eye looking forward |
-|              |     only hands      | 300  |  300   |                            |     put Hand in front of face,put Hand in front of hair      |
-|              |       Complex       | 300  |  300   |                            | glasses，(masked:1.2),Halloween makeup，put Hand in front of face,put Hand in front of hair |
-| Illumination |     Under water     | 300  |  300   |                            |                         under water                          |
-|              |    Strong light     | 300  |  300   |                            |              (sun behind:1.2), strong sun shine              |
-|              |        Dark         | 300  |  300   |                            |       in the night, dark light, (very dark scene:1.2)        |
-|  large pose  |    left & right     | 2000 |  2000  |                            |                          side view                           |
-|              |         up          | 300  |  300   |                            |                       (looking up:1.3)                       |
-|              |        down         | 300  |  300   |                            |                      (looking down:1.3)                      |
-|     Hair     |        Blond        | 300  |  300   |                            |                          blond hair                          |
-|              |        Brown        | 300  |  300   |                            |                                                              |
-|              |         red         | 300  |  300   |                            |                                                              |
-|              |        Bangs        | 300  |  300   |                            |                         (Bangs:1.5)                          |
-|              |    Straight_Hair    | 300  |  300   |                            |                                                              |
-|              |      Wavy_Hair      | 300  |  300   |                            |                                                              |
-|              |        Bald         | 300  |  300   |                            |                             man                              |
-|    others    |     small scale     | 2000 |  2000  |                            |                           clothes                            |
-|              |      Mustache       | 300  |  300   |                            |                       sideburns,goatee                       |
-|              |         Hat         | 300  |  300   |                            |                                                              |
-|              |       Blurry        |      |        |                            |                                                              |
-|              |        大嘴         |      |        |                            |                      screaming, cfg:15                       |
-|     eye      |        闭眼         |      |        |                            |                   sleepy, (close eyes:1.2)                   |
-|              |      earrings       |      |        |                            |                                                              |
-|     ALL      |         all         | 20K  |  20K   |                            |                                                              |
+
+|  Attribute   |  Specific Features  | Male | Female |                        Special Prompt                        |
+| :----------: | :-----------------: | :--: | :----: | :----------------------------------------------------------: |
+|     Age      |     Child (0-5)     | 300  |  300   |                        1 y.o., 3 y.o.                        |
+|              |   Teenager (5-18)   | 600  |  600   |                       8 y.o., 15 y.o.                        |
+|              | Young adult (18-40) | 300  |  300   |                       25 y.o., 35 y.o.                       |
+|              |  Old adult (40-60)  | 300  |  300   |                       45 y.o., 55 y.o.                       |
+|              |      Old (60+)      | 600  |  600   |               60,80,100 y.o., Grandma，Grandpa               |
+|   Emotion    |        Smile        | 600  |  600   |                      smiling, laughing                       |
+|              |        Angry        | 600  |  600   |               Angry, pissed-off face, yelling                |
+|  Occlusion   |    Only glasses     | 600  |  600   |     glasses,sunglasses,swimming goggles,skiing goggles,      |
+|              |      Only mask      | 300  |  300   |                  (masked:1.2), antigas mask                  |
+|              |    Only make up     | 300  |  300   | highly make up, eyeshadow,heavy black eyeliner, joker, Halloween makeup |
+|              |     Only hands      | 300  |  300   |     put Hand in front of face,put Hand in front of hair      |
+|              |       Complex       | 300  |  300   | glasses，(masked:1.2),Halloween makeup，put Hand in front of face,put Hand in front of hair |
+| Illumination |     Under water     | 300  |  300   |                         under water                          |
+|              |    Strong light     | 300  |  300   |              (sun behind:1.2), strong sun shine              |
+|              |        Dark         | 300  |  300   |       in the night, dark light, (very dark scene:1.2)        |
+|  Large pose  |    Left & right     | 2000 |  2000  |                          side view                           |
+|              |         Up          | 300  |  300   |                       (looking up:1.3)                       |
+|     Hair     |        Blond        | 300  |  300   |                          blond hair                          |
+|              |        Brown        | 300  |  300   |                                                              |
+|              |         Red         | 300  |  300   |                                                              |
+|              |        Bangs        | 300  |  300   |                         (Bangs:1.5)                          |
+|              |    Straight_Hair    | 300  |  300   |                                                              |
+|              |      Wavy_Hair      | 300  |  300   |                                                              |
+|              |        Bald         | 300  |  300   |                             man                              |
+|    Others    |     Small scale     | 2000 |  2000  |                           clothes                            |
+|              |      Mustache       | 300  |  300   |                  mustache,sideburns,goatee                   |
+|              |         Hat         | 300  |  300   |                                                              |
+|              |       Blurry        | 300  |  300   |                                                              |
+|              |     Open Mouse      | 300  |  300   |                      screaming, cfg:15                       |
+|              |     Close Eyes      | 300  |  300   |                   sleepy, (close eyes:1.2)                   |
+|              |      Earrings       | 300  |  300   |                                                              |
+|     ALL      |         all         | 30K  |  30K   |                                                              |
 
 
 
