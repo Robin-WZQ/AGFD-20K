@@ -69,7 +69,9 @@ RAW photo, a close up portrait photo of [*year*] y.o [*sex*], [*human race*],[*s
 - **Hyper-parameter:**
 
 DPM++ 2M Karras with 20 steps
+
 CFG Scale 7
+
 Variation strength 1
 
 ### Acknowledgement
