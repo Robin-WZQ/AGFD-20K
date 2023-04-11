@@ -32,7 +32,7 @@ A reference containing portraits and Keywords that you can use with Stable Diffu
 
   | 60,80,100 y.o., man, grandpa | 60,80,100 y.o., woman,  grandma |
   | :--------------------------: | :-----------------------------: |
-  |               ![Old_man_small](https://user-images.githubusercontent.com/60317828/230925226-7c507214-f8d3-4fb7-8dac-a12cd32082a8.png)          |                              ![old_adult_woman_small](https://user-images.githubusercontent.com/60317828/230925253-0bf78264-24ae-4e9b-aec6-325b2c800e7b.png)   |
+  |               ![Old_man_small](https://user-images.githubusercontent.com/60317828/230925226-7c507214-f8d3-4fb7-8dac-a12cd32082a8.png)          |                        ![old_woman_small](https://user-images.githubusercontent.com/60317828/231047264-152b8f4e-1182-4384-ad21-dae56cabe6ca.png)         |
 
 - Emotion
 
@@ -46,7 +46,7 @@ A reference containing portraits and Keywords that you can use with Stable Diffu
 
   | Angry, pissed-off face, yelling, man | Angry, pissed-off face, yelling, woman |
   | :----------------------------------: | :------------------------------------: |
-  |            ![angry_man png_small](https://user-images.githubusercontent.com/60317828/230921290-1a560151-1ae1-4344-9b83-88a31d202d6c.png)                          |                                        |
+  |            ![angry_man png_small](https://user-images.githubusercontent.com/60317828/230921290-1a560151-1ae1-4344-9b83-88a31d202d6c.png)                          |                          ![angry_woman_small](https://user-images.githubusercontent.com/60317828/231047315-a88d0635-98d5-4efa-9a67-8547138bbdeb.png)              |
 
 - Occlusion
 
@@ -54,13 +54,13 @@ A reference containing portraits and Keywords that you can use with Stable Diffu
 
   | glasses,sunglasses,swimming goggles,skiing goggles, man | glasses,sunglasses,swimming goggles,skiing goggles, woman |
   | :-----------------------------------------------------: | :-------------------------------------------------------: |
-  |                                                         |                                                           |
+  |                  ![glasses_man_small](https://user-images.githubusercontent.com/60317828/231047342-d98dcbbb-9a3e-4fac-816b-8e3fc894e559.png)                                       |                              ![glasses_Woman_small](https://user-images.githubusercontent.com/60317828/231047362-f9faff25-197d-4ccc-80d3-b58b9034403e.png)                             |
 
   - Only mask
 
   | (masked:1.2), antigas mask, man | (masked:1.2), antigas mask, woman |
   | :-----------------------------: | :-------------------------------: |
-  |                                 |                                   |
+  |          ![mask_man_small](https://user-images.githubusercontent.com/60317828/231047415-c48c7579-234a-4256-9222-ae7a5e045b3b.png)          |                              ![mask_woman_small](https://user-images.githubusercontent.com/60317828/231047504-8fc9d908-7a04-4432-a5c0-83de6a547255.png)     |
 
   - Only make up
 
