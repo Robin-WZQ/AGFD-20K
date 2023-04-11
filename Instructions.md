@@ -1,6 +1,6 @@
 # Instruction
 
-A reference containing portraits and Keywords that you can use with Stable Diffusion.
+A reference containing Portraits and Keywords that you can use with Stable Diffusion.
 
 - Age
 
