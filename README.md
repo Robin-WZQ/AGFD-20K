@@ -10,7 +10,7 @@ Thanks to the **Diffusion Model,** we can generate the data we need from prompt.
 
 The principles I followed in generated face are:
 
-- Realistic (use [Realistic_Vision_V2.0:1]() from civitai.com)
+- Realistic (use [Realistic_Vision_V2.0:1](https://civitai.com/models/4201/realistic-vision-v20) from civitai.com)
 - High-resolution (the resolution of all images are 512*512)
 - Vary & Balanced (support vary faces and keep good data distribution)
 
