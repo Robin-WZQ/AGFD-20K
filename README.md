@@ -4,14 +4,14 @@
     <img src=https://github.com/Robin-WZQ/AGFD-30/blob/main/logo.png width="700"/>
 </div>
 
-Can we use generated human face for training a model? If the generated faces is realistic enough, how can we use it to generate faces we want? What the reflections from prompt to vary human faces are?
+Can we use generated human face to train a model? If the model can generate faces that are realistic enough, how can we use it to generate faces we want? What is the mapping between prompt and vary human faces?
 
-Besides, many times we need to construct a good test dataset to test the robust capacity of the trained model. But selecting pictures 精挑细选的 from searching engines is laborious and also facing the problem of cleaning (due to the low quality of the data like: unrelated, low-resolution, unbalanced, etc.). How the diffusion model can help us solve this problem?
+Besides, many times we need to construct a good test dataset to test the robustness of the trained model. But selecting images carefully from searching engines is laborious and also facing the problem of cleaning (due to the low quality of the data like: unrelated, low-resolution, unbalanced, etc.). How the diffusion model can help us solve this problem?
 
-In the past 3 years, we have seen the 爆发 development of the **Diffusion Model**, it now can generate brilliant pictures according to user's prompt. In this program, I test the diffusion model in the capacity of generating realistic human faces. All in all, the propose of this program are the following two points:
+In the past 3 years, we have seen the explosive growth of the **Diffusion Model**, it now can generate brilliant pictures according to user's prompt. In this program, I test the diffusion model in the capacity of generating realistic human faces. And purposes of this program are the following two points:
 
-1. Construct a not bad faces dataset for testing;
-2. Use these data to do something interesting. I don't know if it is helpful for others, but it is useful for me 🤣🤣🤣 
+1. Construct a not bad faces dataset for robustness testing;
+2. Use these data to do something interesting. I don't know if it helps anyone, but it works for me 🤣🤣🤣 
 
 The principles I followed in generated face are:
 
@@ -56,6 +56,7 @@ Here is the generated face data and corresponding descriptions:
 |              |      Earrings       | 300  |  300   |                                                              |
 |     ALL      |         all         | 30K  |  30K   |                                                              |
 
+All the pictures can be downloaded at Google Drive | Baidu Disk.
 
 ## Usage
 
@@ -77,16 +78,16 @@ DPM++ 2M Karras with 20 steps
 
 CFG Scale 7
 
-Variation strength 1
-
 ## Acknowledgement
 
 Thanks the creator of the model for his brilliant work and also thanks his reference models. 
 
+ **[Realistic_Vision_V2.0:1](https://civitai.com/models/4201/realistic-vision-v20)** by **[SG_161222](https://civitai.com/user/SG_161222)**
+
 ## Future Work
 
-- I will use this fake faces to launch a program of facial landmark detection. In my plan, the program supports 270 points and keep a good capacity under complex scene (like large pose, occlusion, extreme expression…). Also, it supports both large model and tiny model (pth & onnx), for mobile using.
-- keep enlarge the dataset.
+- I will use this fake faces to launch a program of facial landmark detection. In my plan, the program supports 240 points and keeps a good capacity under complex scene (like large pose, occlusion, extreme expression…). Also, it supports both large model and tiny model (pth & onnx), for mobile using.
+- keep expanding the dataset.
 
 ## Citation
 
