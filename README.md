@@ -16,9 +16,6 @@ The principles I followed in generated face are:
 
 Here is the generated face data and corresponding descriptions:
 
-**A more detailed instructions are available at [HERE](https://github.com/Robin-WZQ/AGFD-30K/blob/main/Instructions.md).**
-
-
 |  Attribute   |  Specific Features  | Male | Female |                        Special Prompt                        |
 | :----------: | :-----------------: | :--: | :----: | :----------------------------------------------------------: |
 |     Age      |     Child (0-5)     | 300  |  300   |                        1 y.o., 3 y.o.                        |
@@ -55,20 +52,44 @@ Here is the generated face data and corresponding descriptions:
 |     ALL      |         all         | 30K  |  30K   |                                                              |
 
 
+### Usage
 
-### Thanks
+> **A more detailed instructions are available at [HERE](https://github.com/Robin-WZQ/AGFD-30K/blob/main/Instructions.md).**
 
-RAW photo, a close up portrait photo of 2 y.o child boy, skin pores,  big face,(high detailed skin:1.2),soft lighting, 8k uhd, dslr, high quality, film grain, Fujifilm XT3
+I use this template to get good generation results:
 
- African, pale skin, Asian, Middle East, Latino
+- **Prompt:**
 
-(deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), text, close up, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck
+RAW photo, a close up portrait photo of [*year*] y.o [*sex*], [*human race*],[*special prompt*],(high detailed skin:1.2), 8k uhd, dslr, high quality, film grain, Fujifilm XT3.
+
+- **Negative Prompt:**
+
+(deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), text, close up, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck.
+
+- **Hyper-parameter:**
+
+DPM++ 2M Karras with 20 steps
+CFG Scale 7
+Variation strength 1
+
+### Acknowledgement
+
+Thanks the creator of the model for his brilliant work and also thanks his reference models. 
 
 ### Future Work
 
-- I will use this fake faces to launch a program of facial landmark detection. In my plan, the program supports 280 points and keep a good capacity under complex scene (like large pose, occlusion, extreme expression…). Also, it supports both large model and 轻量 model (pth & onnx), for mobile using.
-- keep 扩充数据
-- 尝试应用在更多的任务上
+- I will use this fake faces to launch a program of facial landmark detection. In my plan, the program supports 270 points and keep a good capacity under complex scene (like large pose, occlusion, extreme expression…). Also, it supports both large model and tiny model (pth & onnx), for mobile using.
+- keep enlarge the dataset.
 
 ### Citation
+
+```
+@repo{2023agfd30k,
+    title={A Generated Face Dataset: AGFD-30K},
+    author={Robin_WZQ},
+    howpublished = {\url{https://github.com/Robin-WZQ/AGFD-30K}},
+    year={2023}
+}
+```
+
 
