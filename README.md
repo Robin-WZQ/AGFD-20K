@@ -1,4 +1,4 @@
-# A Generated Face Dataset: AGFD-30K
+# A Generated Face Dataset: AGFD-25K
 
 <div align=center>
     <img src=https://github.com/Robin-WZQ/AGFD-30/blob/main/logo.png width="700"/>
@@ -21,6 +21,8 @@ The principles I followed in generated face are:
 
 Here is the generated face data and corresponding descriptions:
 
+Here is the generated face data and corresponding descriptions:
+
 |  Attribute   |  Specific Features  | Male | Female |                        Special Prompt                        |
 | :----------: | :-----------------: | :--: | :----: | :----------------------------------------------------------: |
 |     Age      |     Child (0-5)     | 300  |  300   |                        1 y.o., 3 y.o.                        |
@@ -35,26 +37,20 @@ Here is the generated face data and corresponding descriptions:
 |              |    Only make up     | 300  |  300   | highly make up, eyeshadow,heavy black eyeliner, joker, Halloween makeup |
 |              |     Only hands      | 300  |  300   |     put Hand in front of face,put Hand in front of hair      |
 |              |       Complex       | 300  |  300   | glasses，(masked:1.2),Halloween makeup，put Hand in front of face,put Hand in front of hair |
+|              |      Mustache       | 300  |   -    |             mustache,sideburns,goatee,front view             |
 | Illumination |     Under water     | 300  |  300   |                         under water                          |
 |              |    Strong light     | 300  |  300   |              (sun behind:1.2), strong sun shine              |
 |              |        Dark         | 300  |  300   |       in the night, dark light, (very dark scene:1.2)        |
 |  Large pose  |    Left & right     | 2000 |  2000  |                          side view                           |
 |              |         Up          | 300  |  300   |                       (looking up:1.3)                       |
 |     Hair     |        Blond        | 300  |  300   |                          blond hair                          |
-|              |        Brown        | 300  |  300   |                                                              |
-|              |         Red         | 300  |  300   |                                                              |
-|              |        Bangs        | 300  |  300   |                         (Bangs:1.5)                          |
-|              |    Straight_Hair    | 300  |  300   |                                                              |
-|              |      Wavy_Hair      | 300  |  300   |                                                              |
-|              |        Bald         | 300  |  300   |                             man                              |
+|              |        Bangs        | 300  |  300   |                         (Bangs:1.2)                          |
+|              |        Bald         | 300  |  300   |                             Bald                             |
 |    Others    |     Small scale     | 2000 |  2000  |                           clothes                            |
-|              |      Mustache       | 300  |  300   |                  mustache,sideburns,goatee                   |
-|              |         Hat         | 300  |  300   |                                                              |
-|              |       Blurry        | 300  |  300   |                                                              |
-|              |     Open Mouse      | 300  |  300   |                      screaming, cfg:15                       |
-|              |     Close Eyes      | 300  |  300   |                   sleepy, (close eyes:1.2)                   |
-|              |      Earrings       | 300  |  300   |                                                              |
-|     ALL      |         all         | 30K  |  30K   |                                                              |
+|              |     Open Mouse      | 600  |  600   |              (talking loudly:1.4),smile,neutral              |
+|              |     Close Eyes      | 600  |  600   |                    (sleep,close eyes:1.4)                    |
+|     ALL      |       origin        | 25K  |  25K   |                              -                               |
+|              |       aligned       | 25K  |  25K   |                              -                               |
 
 All the pictures can be downloaded at Google Drive | Baidu Disk.
 
@@ -92,12 +88,10 @@ Thanks the creator of the model for his brilliant work and also thanks his refer
 ## Citation
 
 ```
-@repo{2023agfd30k,
-    title={A Generated Face Dataset: AGFD-30K},
+@repo{2023agfd25k,
+    title={A Generated Face Dataset: AGFD-25K},
     author={Robin_WZQ},
     howpublished = {\url{https://github.com/Robin-WZQ/AGFD-30K}},
     year={2023}
 }
 ```
-
-
