@@ -204,7 +204,7 @@ A reference containing Portraits and Keywords that you can use with Stable Diffu
 
   | mustache,sideburns,goatee,front view, man | mustache,sideburns,goatee,front view, woman |
   | :----------------------------------: | :----------------------------------: |
-  |                      ![mustache_man_small](https://user-images.githubusercontent.com/60317828/231630899-dfa1df68-78d2-4608-8ebb-82f048e10777.png)                |               cannot generate                    |
+  |                      ![mustache_man_small](https://user-images.githubusercontent.com/60317828/231630899-dfa1df68-78d2-4608-8ebb-82f048e10777.png)                |               cannot generate 💔                  |
   
   <br>
 
