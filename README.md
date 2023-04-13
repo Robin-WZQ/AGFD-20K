@@ -166,13 +166,11 @@ A reference containing Portraits and Keywords that you can use with Stable Diffu
 
 - <details><summary> 🔭 Large pose </summary><p><div align="center">
 
-  - Left & right
-
   | side view, man | side view, woman |
   | :------------: | :--------------: |
   |       ![sideview_man_small](https://user-images.githubusercontent.com/60317828/231048001-a00fc301-658a-4eee-aeb8-95b4974beb81.png)         |        ![sideview_woman_small](https://user-images.githubusercontent.com/60317828/231047986-f455ea7e-4947-4034-a939-123705407819.png)          |
 
-  - Up
+  <br>
 
   | (looking up:1.3), man | (looking up:1.3), woman |
   | :-------------------: | :---------------------: |
