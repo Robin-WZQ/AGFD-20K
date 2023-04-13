@@ -21,8 +21,6 @@ The principles I followed in generated face are:
 
 Here is the generated face data and corresponding descriptions:
 
-Here is the generated face data and corresponding descriptions:
-
 |  Attribute   |  Specific Features  | Male | Female |                        Special Prompt                        |
 | :----------: | :-----------------: | :--: | :----: | :----------------------------------------------------------: |
 |     Age      |     Child (0-5)     | 300  |  300   |                        1 y.o., 3 y.o.                        |
