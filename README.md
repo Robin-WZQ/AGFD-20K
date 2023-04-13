@@ -4,7 +4,7 @@
     <img src=https://github.com/Robin-WZQ/AGFD-30/blob/main/logo.png width="700"/>
 </div>
 
-Can we use generated human face to train a model? If the model can generate faces that are realistic enough, how can we use it to generate faces we want? What is the mapping between prompt and vary human faces?
+Can we use generated human faces to train a model? If the model can generate faces that are realistic enough, how can we use it to generate faces we want? What is the mapping between prompt and vary human faces?
 
 Besides, many times we need to construct a good test dataset to test the robustness of the trained model. But selecting images carefully from searching engines is laborious and also facing the problem of cleaning (due to the low quality of the data like: unrelated, low-resolution, unbalanced, etc.). How the diffusion model can help us solve this problem?
 
