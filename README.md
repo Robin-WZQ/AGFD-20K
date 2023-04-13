@@ -204,19 +204,19 @@ A reference containing Portraits and Keywords that you can use with Stable Diffu
 
   | mustache,sideburns,goatee,front view, man | mustache,sideburns,goatee,front view, woman |
   | :----------------------------------: | :----------------------------------: |
-  |                                      |                                      |
+  |                      ![mustache_man_small](https://user-images.githubusercontent.com/60317828/231630899-dfa1df68-78d2-4608-8ebb-82f048e10777.png)                |               cannot generate                    |
   
   <br>
 
   | (talking loudly:1.4),smile,neutral, man | (talking loudly:1.4),smile,neutral, woman |
   | :--------------------------------: | :--------------------------------: |
-  |                                    |                                    |
+  |                   ![oen_mouse_man_small](https://user-images.githubusercontent.com/60317828/231630953-ce42adc8-37d2-4c20-a721-3e5d153e77e9.png)                 |                            ![open_mouse_woman_small](https://user-images.githubusercontent.com/60317828/231631009-3dc1f7ea-02eb-4921-ace7-86d98659c00c.png)        |
   
   <br>
 
   | (sleepy,close eyes:1.4), man | (sleepy,close eyes:1.4), woman |
   | :---------------------: | :---------------------: |
-  |                         |                         |
+  |            ![close_eye_man_small](https://user-images.githubusercontent.com/60317828/231631079-ab1dedbc-9af5-44df-ab8e-074a97de42bd.png)             |                         |
   
 
 
