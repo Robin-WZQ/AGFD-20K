@@ -8,7 +8,7 @@ Can we use generated human faces to train a model? If the model can generate fac
 
 Besides, many times we need to construct a good test dataset to test the robustness of the trained model. But selecting images carefully from searching engines is laborious and also facing the problem of cleaning (due to the low quality of the data like: unrelated, low-resolution, unbalanced, etc.). How the diffusion model can help us solve this problem?
 
-In the past 3 years, we have seen the explosive growth of the **Diffusion Model**, it now can generate brilliant pictures according to user's prompt. In this program, I test the diffusion model in the capacity of generating realistic human faces. And purposes of this program are the following two points:
+In the past 3 years, we have seen the explosive growth of the **Diffusion Model**, it now can generate brilliant pictures according to user's prompt. Here I test the diffusion model in the capacity of generating realistic human faces. And purposes of this project are the following two points:
 
 1. Construct a not bad faces dataset for robustness testing;
 2. Use these data to do something interesting. I don't know if it helps anyone, but it works for me 🤣🤣🤣 
