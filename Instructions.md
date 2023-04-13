@@ -108,90 +108,43 @@ A reference containing Portraits and Keywords that you can use with Stable Diffu
 
 - <details><summary> Hair </summary><p><div align="center">
 
-  - Blond
+  | blond hair | blond hair |
+  | :--------: | :--------: |
+  |            |            |
 
-  |      |      |
-  | :--: | :--: |
-  |      |      |
+  <br>
+  
+  | (Bangs:1.2) | (Bangs:1.2) |
+  | :---------: | :---------: |
+  |             |             |
+  
+  <br>
 
-  - Brown
-
-  |      |      |
-  | :--: | :--: |
-  |      |      |
-
-  - Red
-
-  |      |      |
-  | :--: | :--: |
-  |      |      |
-
-  - Bangs
-
-  |      |      |
-  | :--: | :--: |
-  |      |      |
-
-  - Straight_Hair
-
-  |      |      |
-  | :--: | :--: |
-  |      |      |
-
-  - Wavy_Hair
-
-  |      |      |
-  | :--: | :--: |
-  |      |      |
-
-  - Bald
-
-  |      |      |
+  | Bald | Bald |
   | :--: | :--: |
   |      |      |
 
 - <details><summary> Others </summary><p><div align="center">
 
-  - Small scale
+  | clothes | clothes |
+  | :-----: | :-----: |
+  |         |         |
+  
+  <br>
 
-  |      |      |
-  | :--: | :--: |
-  |      |      |
+  | mustache,sideburns,goatee,front view | mustache,sideburns,goatee,front view |
+  | :----------------------------------: | :----------------------------------: |
+  |                                      |                                      |
+  
+  <br>
 
-  - Mustache
+  | (talking loudly:1.4),smile,neutral | (talking loudly:1.4),smile,neutral |
+  | :--------------------------------: | :--------------------------------: |
+  |                                    |                                    |
+  
+  <br>
 
-  |      |      |
-  | :--: | :--: |
-  |      |      |
-
-  - Hat
-
-  |      |      |
-  | :--: | :--: |
-  |      |      |
-
-  - Blurry
-
-  |      |      |
-  | :--: | :--: |
-  |      |      |
-
-  - 大嘴
-
-  |      |      |
-  | :--: | :--: |
-  |      |      |
-
-  - 闭眼
-
-  |      |      |
-  | :--: | :--: |
-  |      |      |
-
-  - Earrings
-
-  |      |      |
-  | :--: | :--: |
-  |      |      |
-
+  | (sleepy,close eyes:1.4) | (sleepy,close eyes:1.4) |
+  | :---------------------: | :---------------------: |
+  |                         |                         |
   
