@@ -146,7 +146,7 @@ A reference containing Portraits and Keywords that you can use with Stable Diffu
   | :----------------------------------------------------------: | :----------------------------------------------------------: |
   |                        ![complex_man_small](https://user-images.githubusercontent.com/60317828/231047722-b0089d11-b441-4ec0-9df0-58b12abaad7d.png)                                      |                                            ![complex_woman_small](https://user-images.githubusercontent.com/60317828/231047732-c593a4a8-5ed1-4bd9-9a0a-b57350948607.png)                  |
 
-- <details><summary> Illumination </summary><p><div align="center">
+- <details><summary> 🔆 Illumination </summary><p><div align="center">
 
   | under water, man | under water, woman |
   | :--------------: | :----------------: |
@@ -164,7 +164,7 @@ A reference containing Portraits and Keywords that you can use with Stable Diffu
   | :--------------------------------------------------: | :----------------------------------------------------: |
   |                         ![dark_man_small](https://user-images.githubusercontent.com/60317828/231047941-7a2f19ac-2cb7-4efa-b8b7-5aa735947867.png)                             |                                ![dark_woman_small](https://user-images.githubusercontent.com/60317828/231047949-b6246475-703b-43bf-b040-f2e3828b2338.png)                        |
 
-- <details><summary> Large pose </summary><p><div align="center">
+- <details><summary> 🔭 Large pose </summary><p><div align="center">
 
   - Left & right
 
@@ -178,7 +178,7 @@ A reference containing Portraits and Keywords that you can use with Stable Diffu
   | :-------------------: | :---------------------: |
   |               ![up_man_small](https://user-images.githubusercontent.com/60317828/231048047-b0b15f91-c66a-4cb8-8fa6-564e45249186.png)        |                 ![up_woman_small](https://user-images.githubusercontent.com/60317828/231048033-f25194e4-0dc0-49c6-a371-d34048c377db.png)        |
 
-- <details><summary> Hair </summary><p><div align="center">
+- <details><summary> 🦱 Hair </summary><p><div align="center">
 
   | blond hair | blond hair |
   | :--------: | :--------: |
@@ -196,7 +196,7 @@ A reference containing Portraits and Keywords that you can use with Stable Diffu
   | :--: | :--: |
   |      |      |
 
-- <details><summary> Others </summary><p><div align="center">
+- <details><summary> 🧑‍💻 Others </summary><p><div align="center">
 
   | clothes | clothes |
   | :-----: | :-----: |
