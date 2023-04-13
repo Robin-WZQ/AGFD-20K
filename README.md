@@ -104,7 +104,7 @@ A reference containing Portraits and Keywords that you can use with Stable Diffu
   | :--------------------------: | :-----------------------------: |
   |               ![Old_man_small](https://user-images.githubusercontent.com/60317828/230925226-7c507214-f8d3-4fb7-8dac-a12cd32082a8.png)          |                        ![old_woman_small](https://user-images.githubusercontent.com/60317828/231047264-152b8f4e-1182-4384-ad21-dae56cabe6ca.png)         |
 
-- <details><summary> Emotion </summary><p><div align="center">
+- <details><summary> 😃 Emotion </summary><p><div align="center">
 
   | smiling, laughing, man | smiling, laughing, woman |
   | :--------------------: | :----------------------: |
@@ -116,7 +116,7 @@ A reference containing Portraits and Keywords that you can use with Stable Diffu
   | :----------------------------------: | :------------------------------------: |
   |            ![angry_man png_small](https://user-images.githubusercontent.com/60317828/230921290-1a560151-1ae1-4344-9b83-88a31d202d6c.png)                          |                          ![angry_woman_small](https://user-images.githubusercontent.com/60317828/231047315-a88d0635-98d5-4efa-9a67-8547138bbdeb.png)              |
 
-- <details><summary> Occlusion </summary><p><div align="center">
+- <details><summary> 🥸 Occlusion </summary><p><div align="center">
 
   | glasses,sunglasses,swimming goggles,skiing goggles, man | glasses,sunglasses,swimming goggles,skiing goggles, woman |
   | :-----------------------------------------------------: | :-------------------------------------------------------: |
