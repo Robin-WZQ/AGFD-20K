@@ -178,43 +178,43 @@ A reference containing Portraits and Keywords that you can use with Stable Diffu
 
 - <details><summary> 🦱 Hair </summary><p><div align="center">
 
-  | blond hair | blond hair |
+  | blond hair, man | blond hair, woman |
   | :--------: | :--------: |
-  |            |            |
+  |      ![blond_man_small](https://user-images.githubusercontent.com/60317828/231630521-1c0ba435-3465-4d92-a31f-8c56315bbed5.png)      |         ![blond_woman_small](https://user-images.githubusercontent.com/60317828/231630529-9c97dbd6-4e1b-4025-b43c-9bc55c406b06.png)   |
 
   <br>
   
-  | (Bangs:1.2) | (Bangs:1.2) |
+  | (Bangs:1.2), man | (Bangs:1.2), woman |
   | :---------: | :---------: |
-  |             |             |
+  |      ![bang_man_small](https://user-images.githubusercontent.com/60317828/231630561-6bd1e8e2-3fe1-4319-bf37-74c987b00c5b.png)       |        ![bang_woman_small](https://user-images.githubusercontent.com/60317828/231630568-8a7e4aea-5eba-47c7-9f14-7ab7c7276d0b.png)     |
   
   <br>
 
-  | Bald | Bald |
+  | Bald, man | Bald, woman |
   | :--: | :--: |
-  |      |      |
+  |    ![bald_man_small](https://user-images.githubusercontent.com/60317828/231630591-3532cf89-6314-4cb9-8d3d-ec28fbe70d17.png)  |   ![bald_woman_small](https://user-images.githubusercontent.com/60317828/231630607-c46726f9-88e8-4d7b-8c6e-0811ee0c1c17.png)   |
 
 - <details><summary> 🧑‍💻 Others </summary><p><div align="center">
 
-  | clothes | clothes |
+  | clothes, man | clothes, woman |
   | :-----: | :-----: |
   |         |         |
   
   <br>
 
-  | mustache,sideburns,goatee,front view | mustache,sideburns,goatee,front view |
+  | mustache,sideburns,goatee,front view, man | mustache,sideburns,goatee,front view, woman |
   | :----------------------------------: | :----------------------------------: |
   |                                      |                                      |
   
   <br>
 
-  | (talking loudly:1.4),smile,neutral | (talking loudly:1.4),smile,neutral |
+  | (talking loudly:1.4),smile,neutral, man | (talking loudly:1.4),smile,neutral, woman |
   | :--------------------------------: | :--------------------------------: |
   |                                    |                                    |
   
   <br>
 
-  | (sleepy,close eyes:1.4) | (sleepy,close eyes:1.4) |
+  | (sleepy,close eyes:1.4), man | (sleepy,close eyes:1.4), woman |
   | :---------------------: | :---------------------: |
   |                         |                         |
   
