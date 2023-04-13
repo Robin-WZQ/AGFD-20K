@@ -74,7 +74,7 @@ CFG Scale 7
 
 A reference containing Portraits and Keywords that you can use with Stable Diffusion.
 
-- <details><summary> Age </summary><p><div align="center">
+- <details><summary> 👨‍👩‍👧‍👦 Age </summary><p><div align="center">
 
   | 1 y.o., 3 y.o., boy | 1 y.o., 3 y.o., girl |
   | :-----------------: | :------------------: |
