@@ -220,7 +220,7 @@ Thanks the creator of the model for his brilliant work and also thanks his refer
 
 ## Future Work
 
-- I will use this fake faces to launch a program of facial landmark detection. In my plan, the program supports 240 points and keeps a good capacity under complex scene (like large pose, occlusion, extreme expression…). Also, it supports both large model and tiny model (pth & onnx), for mobile using.
+- I will do some research about fake face detection.
 - Although the realistic ability of this version model to generate pictures is enhanced, **the generalization is weakened**. As reported in [MidJourney-Styles-and-Keywords](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V5/Style_Pages/V5_Alpha_1.md),  the Mid-v5 has a better ability to process finer facial details. I will keep focusing on the generated model and use better model to generated more controllable human faces. 
 
 ## Citation
