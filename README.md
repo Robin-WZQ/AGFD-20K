@@ -50,7 +50,7 @@ Here is the generated face data and corresponding descriptions:
 |              |      Close Eyes      | 600  |  600   |                   (sleepy,close eyes:1.4)                    |
 |     ALL      |        Origin        | 20K  |  20K   |                              -                               |
 
-All the pictures can be downloaded at [Baidu Disk](https://pan.baidu.com/s/1YlXFk58kEuJzOp3lZN4jVQ) [extract code: krid]. 
+All the pictures can be downloaded at [Baidu Disk](https://pan.baidu.com/s/1Nz7oDuavQnmp4gVQa1AmoQ) [extract code: tqxd]. 
 
 ## Usage
 
