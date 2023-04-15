@@ -15,7 +15,7 @@ In the past 3 years, we have seen the explosive growth of the **Diffusion Model*
 1. Construct a not bad **fake** faces dataset;
 2. Use these data to do something interesting. I don't know if it helps anyone, but it works for me 🤣🤣🤣 
 
-The principles I followed in generated face are:
+The principles I followed in generating faces are:
 
 - Realistic (use **[Realistic_Vision_V2.0:1](https://civitai.com/models/4201/realistic-vision-v20)** by **[SG_161222](https://civitai.com/user/SG_161222)**)
 - High-resolution (the resolution of all images are 512*512)
