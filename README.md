@@ -1,7 +1,7 @@
 # A Generated Face Dataset: AGFD-20K
 
 <div align=center>
-    <img src=https://github.com/Robin-WZQ/AGFD-30/blob/main/logo.png width="700"/>
+    <img src=https://github.com/Robin-WZQ/AGFD-20K/blob/main/logo.png width="700"/>
 </div>
 
 Can we use generated human faces to train a model? If the model can generate faces that are realistic enough, how can we use it to generate faces we want? What is the mapping between prompt and vary human faces?
