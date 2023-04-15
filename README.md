@@ -49,8 +49,8 @@ Here is the generated face data and corresponding descriptions:
 |    Others    |     Small scale     | 2000 |  2000  |                           clothes                            |
 |              |     Open Mouse      | 600  |  600   |              (talking loudly:1.4),smile,neutral              |
 |              |     Close Eyes      | 600  |  600   |                    (sleep,close eyes:1.4)                    |
-|     ALL      |       origin        | 25K  |  25K   |                              -                               |
-|              |       aligned       | 25K  |  25K   |                              -                               |
+|     ALL      |       Origin        | 25K  |  25K   |                              -                               |
+|              |       Aligned       | 25K  |  25K   |                              -                               |
 
 All the pictures can be downloaded at Google Drive | Baidu Disk.
 
