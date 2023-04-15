@@ -46,9 +46,8 @@ Here is the generated face data and corresponding descriptions:
 |     Hair     |        Blond        | 300  |  300   |                          blond hair                          |
 |              |        Bangs        | 300  |  300   |                         (Bangs:1.2)                          |
 |              |        Bald         | 300  |  300   |                             Bald                             |
-|    Others    |     Small scale     | 2000 |  2000  |                           clothes                            |
-|              |     Open Mouse      | 600  |  600   |              (talking loudly:1.4),smile,neutral              |
-|              |     Close Eyes      | 600  |  600   |                    (sleep,close eyes:1.4)                    |
+|    Others    |     Open Mouse      | 600  |  600   |              (talking loudly:1.4),smile,neutral              |
+|              |     Close Eyes      | 600  |  600   |                    (sleepy,close eyes:1.4)                    |
 |     ALL      |       Origin        | 25K  |  25K   |                              -                               |
 |              |       Aligned       | 25K  |  25K   |                              -                               |
 
@@ -197,12 +196,6 @@ A reference containing Portraits and Keywords that you can use with Stable Diffu
   | ![bald_man_small](https://user-images.githubusercontent.com/60317828/231630591-3532cf89-6314-4cb9-8d3d-ec28fbe70d17.png) | ![bald_woman_small](https://user-images.githubusercontent.com/60317828/231630607-c46726f9-88e8-4d7b-8c6e-0811ee0c1c17.png) |
 
 - <details><summary> 🧑‍💻 Others </summary><p><div align="center">
-
-  | clothes, man | clothes, woman |
-  | :----------: | :------------: |
-  |        ![small_scale_man_small](https://user-images.githubusercontent.com/60317828/232202655-26621bff-9db8-41e2-815b-a20277321807.png)      |                |
-  
-  <br>
 
   |          mustache,sideburns,goatee,front view, man           | mustache,sideburns,goatee,front view, woman |
   | :----------------------------------------------------------: | :-----------------------------------------: |
