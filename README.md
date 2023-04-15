@@ -1,4 +1,4 @@
-# A Generated Face Dataset: AGFD-25K
+# A Generated Face Dataset: AGFD-20K
 
 <div align=center>
     <img src=https://github.com/Robin-WZQ/AGFD-30/blob/main/logo.png width="700"/>
@@ -48,10 +48,9 @@ Here is the generated face data and corresponding descriptions:
 |              |        Bald         | 300  |  300   |                             Bald                             |
 |    Others    |     Open Mouse      | 600  |  600   |              (talking loudly:1.4),smile,neutral              |
 |              |     Close Eyes      | 600  |  600   |                    (sleepy,close eyes:1.4)                    |
-|     ALL      |       Origin        | 25K  |  25K   |                              -                               |
-|              |       Aligned       | 25K  |  25K   |                              -                               |
+|     ALL      |       Origin        | 20K  |  20K   |                              -                               |
 
-All the pictures can be downloaded at Google Drive | Baidu Disk.
+All the pictures can be downloaded at Baidu Disk.
 
 ## Usage
 
@@ -230,9 +229,9 @@ Thanks the creator of the model for his brilliant work and also thanks his refer
 
 ```
 @repo{2023agfd25k,
-    title={A Generated Face Dataset: AGFD-25K},
+    title={A Generated Face Dataset: AGFD-20K},
     author={Robin_WZQ},
-    howpublished = {\url{https://github.com/Robin-WZQ/AGFD-25K}},
+    howpublished = {\url{https://github.com/Robin-WZQ/AGFD-20K}},
     year={2023}
 }
 ```
