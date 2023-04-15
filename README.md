@@ -23,32 +23,32 @@ The principles I followed in generating faces are:
 
 Here is the generated face data and corresponding descriptions:
 
-|  Attribute   |  Specific Features  | Male | Female |                        Special Prompt                        |
-| :----------: | :-----------------: | :--: | :----: | :----------------------------------------------------------: |
-|     Age      |     Child (0-5)     | 300  |  300   |                        1 y.o., 3 y.o.                        |
-|              |   Teenager (5-18)   | 600  |  600   |                       8 y.o., 15 y.o.                        |
-|              | Young adult (18-40) | 300  |  300   |                       25 y.o., 35 y.o.                       |
-|              |  Old adult (40-60)  | 300  |  300   |                       45 y.o., 55 y.o.                       |
-|              |      Old (60+)      | 600  |  600   |               60,80,100 y.o., Grandma，Grandpa               |
-|   Emotion    |        Smile        | 600  |  600   |                      smiling, laughing                       |
-|              |        Angry        | 600  |  600   |               Angry, pissed-off face, yelling                |
-|  Occlusion   |    Only glasses     | 600  |  600   |     glasses,sunglasses,swimming goggles,skiing goggles,      |
-|              |      Only mask      | 300  |  300   |                  (masked:1.2), antigas mask                  |
-|              |    Only make up     | 300  |  300   | highly make up, eyeshadow,heavy black eyeliner, joker, Halloween makeup |
-|              |     Only hands      | 300  |  300   |     put Hand in front of face,put Hand in front of hair      |
-|              |       Complex       | 300  |  300   | glasses，(masked:1.2),Halloween makeup，put Hand in front of face,put Hand in front of hair |
-|              |      Mustache       | 300  |   -    |             mustache,sideburns,goatee,front view             |
-| Illumination |     Under water     | 300  |  300   |                         under water                          |
-|              |    Strong light     | 300  |  300   |              (sun behind:1.2), strong sun shine              |
-|              |        Dark         | 300  |  300   |       in the night, dark light, (very dark scene:1.2)        |
-|  Large pose  |    Left & right     | 2000 |  2000  |                          side view                           |
-|              |         Up          | 300  |  300   |                       (looking up:1.3)                       |
-|     Hair     |        Blond        | 300  |  300   |                          blond hair                          |
-|              |        Bangs        | 300  |  300   |                         (Bangs:1.2)                          |
-|              |        Bald         | 300  |  300   |                             Bald                             |
-|    Others    |     Open Mouse      | 600  |  600   |              (talking loudly:1.4),smile,neutral              |
-|              |     Close Eyes      | 600  |  600   |                    (sleepy,close eyes:1.4)                    |
-|     ALL      |       Origin        | 20K  |  20K   |                              -                               |
+|  Attribute   |  Specific Features   | Male | Female |                        Special Prompt                        |
+| :----------: | :------------------: | :--: | :----: | :----------------------------------------------------------: |
+|     Age      |     Child (0-5)      | 300  |  300   |                        1 y.o., 3 y.o.                        |
+|              |   Teenager (5-18)    | 600  |  600   |                       8 y.o., 15 y.o.                        |
+|              | Young people (18-40) | 300  |  300   |                       25 y.o., 35 y.o.                       |
+|              | Middle aged (40-60)  | 300  |  300   |                       45 y.o., 55 y.o.                       |
+|              |   Old people (60+)   | 600  |  600   |               60,80,100 y.o., Grandma，Grandpa               |
+|   Emotion    |        Smile         | 600  |  600   |                      smiling, laughing                       |
+|              |        Angry         | 600  |  600   |               Angry, pissed-off face, yelling                |
+|  Occlusion   |     Only glasses     | 600  |  600   |     glasses,sunglasses,swimming goggles,skiing goggles,      |
+|              |      Only mask       | 300  |  300   |                  (masked:1.2), antigas mask                  |
+|              |     Only make up     | 300  |  300   | highly make up, eyeshadow,heavy black eyeliner, joker, Halloween makeup |
+|              |      Only hands      | 300  |  300   |     put Hand in front of face,put Hand in front of hair      |
+|              |       Complex        | 300  |  300   | glasses，(masked:1.2),Halloween makeup，put Hand in front of face,put Hand in front of hair |
+| Illumination |     Under water      | 300  |  300   |                         under water                          |
+|              |     Strong light     | 300  |  300   |              (sun behind:1.2), strong sun shine              |
+|              |         Dark         | 300  |  300   |       in the night, dark light, (very dark scene:1.2)        |
+|  Large pose  |     Left & right     | 2000 |  2000  |                          side view                           |
+|              |          Up          | 300  |  300   |                       (looking up:1.3)                       |
+|     Hair     |        Blond         | 300  |  300   |                          blond hair                          |
+|              |        Bangs         | 300  |  300   |                         (Bangs:1.2)                          |
+|              |         Bald         | 300  |  300   |                             Bald                             |
+|    Others    |       Mustache       | 300  |   -    |             mustache,sideburns,goatee,front view             |
+|              |      Open Mouse      | 600  |  600   |              (talking loudly:1.4),smile,neutral              |
+|              |      Close Eyes      | 600  |  600   |                   (sleepy,close eyes:1.4)                    |
+|     ALL      |        Origin        | 20K  |  20K   |                              -                               |
 
 All the pictures can be downloaded at Baidu Disk.
 
@@ -228,7 +228,7 @@ Thanks the creator of the model for his brilliant work and also thanks his refer
 ## Citation
 
 ```
-@repo{2023agfd25k,
+@repo{2023agfd20k,
     title={A Generated Face Dataset: AGFD-20K},
     author={Robin_WZQ},
     howpublished = {\url{https://github.com/Robin-WZQ/AGFD-20K}},
