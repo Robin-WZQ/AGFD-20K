@@ -200,7 +200,7 @@ A reference containing Portraits and Keywords that you can use with Stable Diffu
 
   | clothes, man | clothes, woman |
   | :----------: | :------------: |
-  |              |                |
+  |        ![small_scale_man_small](https://user-images.githubusercontent.com/60317828/232202655-26621bff-9db8-41e2-815b-a20277321807.png)      |                |
   
   <br>
 
@@ -218,7 +218,7 @@ A reference containing Portraits and Keywords that you can use with Stable Diffu
 
   |                 (sleepy,close eyes:1.4), man                 | (sleepy,close eyes:1.4), woman |
   | :----------------------------------------------------------: | :----------------------------: |
-  | ![close_eye_man_small](https://user-images.githubusercontent.com/60317828/231631079-ab1dedbc-9af5-44df-ab8e-074a97de42bd.png) |                                |
+  | ![close_eye_man_small](https://user-images.githubusercontent.com/60317828/231631079-ab1dedbc-9af5-44df-ab8e-074a97de42bd.png) |              ![close_eyes_woman_small](https://user-images.githubusercontent.com/60317828/232202641-c2ef73dc-4ebf-4d61-825a-8080c438b91b.png)                  |
   
 
 
