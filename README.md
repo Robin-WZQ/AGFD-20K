@@ -45,7 +45,7 @@ Here is the generated face data and corresponding descriptions:
 |     Hair     |        Blond         | 300  |  300   |                          blond hair                          |
 |              |        Bangs         | 300  |  300   |                         (Bangs:1.2)                          |
 |              |         Bald         | 300  |  300   |                             Bald                             |
-|    Others    |       Mustache       | 300  |   -    |             mustache,sideburns,goatee,front view             |
+|    Others    |       Moustache       | 300  |   -    |             moustache,sideburns,goatee,front view             |
 |              |      Open Mouse      | 600  |  600   |              (talking loudly:1.4),smile,neutral              |
 |              |      Close Eyes      | 600  |  600   |                   (sleepy,close eyes:1.4)                    |
 |     ALL      |        Origin        | 20K  |  20K   |                              -                               |
@@ -196,7 +196,7 @@ A reference containing Portraits and Keywords that you can use with Stable Diffu
 
 - <details><summary> 🧑‍💻 Others </summary><p><div align="center">
 
-  |          mustache,sideburns,goatee,front view, man           | mustache,sideburns,goatee,front view, woman |
+  |          moustache,sideburns,goatee,front view, man           | moustache,sideburns,goatee,front view, woman |
   | :----------------------------------------------------------: | :-----------------------------------------: |
   | ![mustache_man_small](https://user-images.githubusercontent.com/60317828/231630899-dfa1df68-78d2-4608-8ebb-82f048e10777.png) |              cannot generate 💔              |
   
