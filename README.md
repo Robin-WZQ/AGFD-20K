@@ -231,7 +231,7 @@ Thanks the creator of the model for his brilliant work and also thanks his refer
 ```
 @repo{2023agfd20k,
     title={A Generated Face Dataset: AGFD-20K},
-    author={Robin_WZQ},
+    author={Zhongqi Wang},
     howpublished = {\url{https://github.com/Robin-WZQ/AGFD-20K}},
     year={2023}
 }
